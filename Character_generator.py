@@ -14,11 +14,11 @@ def remove_punct(text):
     t+= i+' ' 
   return t 
 
-sessions = glob("/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/DATA/*/*/*ssion.txt")
-linkers = glob("/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/DATA/*/*/*linker.txt")
+sessions = glob("/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/Prepared DATA/*/*/*ssion.txt")
+linkers = glob("/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/Prepared DATA/*/*/*linker.txt")
 # print(len(sessions))
 # print(len(linkers))
-all_session_text = open('/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/DATA/all_sessions.txt', 'w') #os.path.abspath(os.getcwd()) + 
+all_session_text = open('/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/Prepared DATA/all_sessions1.txt', 'w') #os.path.abspath(os.getcwd()) + 
 
 for linker, sess in zip(linkers, sessions):
     sess_read = open(sess, 'r')
@@ -36,7 +36,7 @@ for linker, sess in zip(linkers, sessions):
         except: 
             print('corrupted audio: {0} -- skipped: '.format(wav_name)) 
             # uncomment if you want to delete the corrupted file 
-            # os.remove(wav_path) 
+            #os.remove(wav_path) 
             continue 
         indices = '' 
         sentence = sentence.replace('##', '') 
