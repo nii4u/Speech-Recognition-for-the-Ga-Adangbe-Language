@@ -2,10 +2,10 @@ import os
 import nltk 
 import wave 
 from glob import glob 
-ga = "A B D E Ɛ F G H I J K L M N Ŋ O Ɔ P R S T U V W Y Z ' 0 1 2 3 4 5 6 7 8 9 " 
+ga = "a ã á ĩ í é è έ æ ũ ọ x c b d e ε ɛ ś f g h i j k l m n ŋ o ↄ ɔ p r s t u v w y z 0 1 2 3 4 5 6 7 8 9" 
  
 character_to_index = {j:i for i,j in enumerate(ga.split())} 
-
+# print(character_to_index)
 def remove_punct(text): 
   tokenizer = nltk.RegexpTokenizer(r"\w+") 
   new_words = tokenizer.tokenize(text) 
@@ -14,10 +14,11 @@ def remove_punct(text):
     t+= i+' ' 
   return t 
 
-sessions = glob("/home/clemencia/Documents/Notes/Speech Recognition/Speech data/Recordings/DATA/*/*/*ssion.txt")
-linkers = glob("/home/clemencia/Documents/Notes/Speech Recognition/Speech data/Recordings/DATA/*/*/*linker.txt")
-
-all_session_text = open('all_sessions.txt', 'w') #os.path.abspath(os.getcwd()) + 
+sessions = glob("/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/DATA/*/*/*ssion.txt")
+linkers = glob("/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/DATA/*/*/*linker.txt")
+# print(len(sessions))
+# print(len(linkers))
+all_session_text = open('/home/thompson/Documents/Speech-Recognition-for-the-Ga-Adangbe-Language/DATA/all_sessions.txt', 'w') #os.path.abspath(os.getcwd()) + 
 
 for linker, sess in zip(linkers, sessions):
     sess_read = open(sess, 'r')
@@ -42,6 +43,7 @@ for linker, sess in zip(linkers, sessions):
         sentence = remove_punct(sentence) 
         for c in sentence: 
             if not c.isspace(): 
-                indices+=str(character_to_index[c.upper()]) + ' ' 
+                # print(c)
+                indices+=str(character_to_index[c.lower()]) + ' ' 
         
         all_session_text.writelines(wav_name[:-4] + ' ' + indices + '\n')
