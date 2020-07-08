@@ -1,5 +1,5 @@
 # Speech-Recognition-for-the-Ga-Adangbe-Language
-This is an Automatic Speech Recognition system for Low Resource Language(Ga-Adangme). Ga-Adangme is a language spoken by the natives of Accra, Ghana with approximately 2million people. Contents of the text were sampled from disparate online sources, including jw.org, and were recorded by myself using the Lig-Aikuma app(https://lig-aikuma.imag.fr/download/). It is a little over 2hrs:20mins of audio recordings. 
+This is an Automatic Speech Recognition system for Low Resource Language(Ga-Adangme). Ga-Adangme is a language spoken by the natives of Accra, Ghana with approximately 2million people. Contents of the text were sampled from disparate online sources, including jw.org, and were recorded by myself(Lloyd Acquaye Thompson) using the Lig-Aikuma app(https://lig-aikuma.imag.fr/download/). It is a little over 2hrs:20mins of audio recordings. 
 
 
 - "I SPEAK GA" Facebook page"
