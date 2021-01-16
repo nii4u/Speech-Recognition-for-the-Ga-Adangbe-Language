@@ -1,4 +1,3 @@
-##Ehãa ekomefeemɔ kɛ naanyobɔɔ hiɔ shi. 
 ##Te ooofee tɛŋŋ ofee mɔ ni hãa nɔ kɛ miishɛɛ lɛ?
 ##Kɛmaje Mɔ Ko
 ##Saji Krokomɛi Ni Tamɔ Enɛ
@@ -8,7 +7,6 @@
 ##Biblia Tsɔɔmɔi
 ##Sanebimɔi Ni Biblia Lɛ Ehã Hetoo
 ##Nibii kɛhã Biblia lɛ kasemɔ
-##Toiŋjɔlɛ kɛ Miishɛɛ
 ##Gbalashihilɛ Kɛ Weku
 ##Oblahii Kɛ Oblayei
 ##Gbekɛbii
@@ -22,14 +20,13 @@
 ##Wɔshiɛmɔ Kɛ Wɔshihilɛ
 ##Wɔ Maŋtsɛyeli Sɔɔmɔ
 ##Lalai
-##Dramai Ni Atswaa Aboɔ Toi
+##Lalai Ni Atswaa Aboɔ Toi
 ##Biblia Kanemɔ Ni Afee Lɛ Drama
 ##JW Broadcasting
 ##Amaniɛbɔɔhe
 ##JW Amaniɛbɔi
 ##Amaniɛbɔɔhe Kɛhã Adafitswaa Nitsulɔi
 ##Mla Saji
-##Wɔhe Saji
 ##Saji ni Mɛi Fɔɔ Bimɔ
 ##Bi Koni Abasara Bo
 ##Asafoŋ Kpeei
@@ -40,7 +37,6 @@
 ##Je Lɛŋ Hei Srɔtoi
 ##Nitsumɔhe Niji Kɛ Shisharamɔi
 ##Taomɔ Wɔsɛɛgbɛ
-##Gbelemɔ Nɔ Ni Otaoɔ
 ##Bi Koni Abasara Bo
 ##Taomɔ Asafoŋ Kpee Ko
 ##Taomɔ Kpee Wulu Ko
@@ -48,7 +44,6 @@
 ##Vidioi Taomɔ
 ##Yelikɛbuamɔ
 ##Oniatsumɔi
-##Buu-Mɔɔ INTANƐT NƆ WOJIATOOHE
 ##Botemɔ Mli
 ##TSI OBƐŊKƐ NYƆŊMƆ
 ##“Te Nɔ ni Ji Kitãi lɛ Ateŋ Klɛŋklɛŋ Nɔŋ?”

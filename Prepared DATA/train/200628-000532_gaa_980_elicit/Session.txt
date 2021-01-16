@@ -2,8 +2,7 @@
 ##enyɔ 
 ##etɛ 
 ##ejwɛ
-##enumɔ 
-##ekpaa 
+##enumɔ  
 ##kpawo 
 ##kpaanyɔ 
 ##nɛɛhu
@@ -31,7 +30,6 @@
 ##nyɔŋmai-enyɔ kɛ ekome
 ##nyɔŋmai-enyɔ kɛ enyɔ
 ##nyɔŋmai-enyɔ kɛ etɛ
-##nyɔŋmai-enyɔ kɛ ejwɛ
 ##nyɔŋmai-enyɔ kɛ enumɔ
 ##nyɔŋmai-enyɔ kɛ ekpaa
 ##nyɔŋmai-enyɔ kɛ kpawo
@@ -57,7 +55,6 @@
 ##ohai nɛɛhu
 ##akpe
 ##akpei enyɔ
-##akpei nyɔŋma
 ##milio, akpei-akpe
 ##fã
 ##shii kome

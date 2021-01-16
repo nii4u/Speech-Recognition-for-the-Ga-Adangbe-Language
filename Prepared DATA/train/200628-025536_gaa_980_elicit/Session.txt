@@ -37,7 +37,6 @@
 ##Ŋamɔi, Ojekoo, Oshwiee, Naokoo
 ##Wɔ jogbaŋŋ
 ##Abalai, Abɛ
-##Abɛi, Abele, Ablade
 ##Abɛku, Afao
 ##Ablantai, Aboloo
 ##Abonua, Abotia, Abuiŋ, Adeka
@@ -71,7 +70,6 @@
 ##Bɔfo, Bimɔ, Bi
 ##Bibio, Boka, Blɛo, Bɛlɛ
 ##Blema, Bɔlɔ, Blɔfonyo
-##Bolɔmo, Blonya, Bu, Daa
 ##Daŋ, Daŋŋulor, Dade, Da fe
 ##Dalɛ, Damɔ, Dani
 ##Dɔkɔdɔkɔ, Dromɔ, Duade
@@ -82,7 +80,6 @@
 ##Jenkpi, Efɔn, Efɔ
 ##Eji, Eja, Ejaa, Diŋ, Eho
 ##Egbɔ, Ekɔ, Ekɔɔ
-##Ekpakpa, Ekuŋ, Elaaje, Eŋmɔŋ
-##Emuŋ, Esa akɛ
+##Emuu, Esa akɛ
 ##Esha, Eshaŋ, Eshafeemɔ
 ##Eshafeelɔ, Ewa, Ewaa
